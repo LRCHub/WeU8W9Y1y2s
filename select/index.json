@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "良いホームラン",
+  "base_artist": "色々な十字架",
+  "createdAt": "2026-01-08T12:53:26.592054Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "良いホームラン",
+      "artist": "色々な十字架",
+      "has_synced": false,
+      "path": "select/pl_01_良いホームラン_色々な十字架.txt"
+    }
+  ]
+}
